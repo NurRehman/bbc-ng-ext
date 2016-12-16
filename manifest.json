@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name"            : "BBC News",
-  "description"     : "BBC News provide breaking news, top stories and feature news. BBC News provides trusted World and UK news as well as local and regional perspectives. Also entertainment, business, science, technology and health news.",
-  "short_name"      : "BBC News",
+  "name"            : "Search Movies from IMBb",
+  "description"     : "Search Movies, TV Shows, series or episode directly from IMBb",
+  "short_name"      : "Search Movies",
   "version"         : "0.1",
   "browser_action": {
     "default_popup": "index.html",
