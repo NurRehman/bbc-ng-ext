@@ -1,16 +1,16 @@
 {
   "manifest_version": 2,
-  "name"            : "ng-Todo",
-  "description"     : "Minimal todo app for minimalist",
-  "short_name"      : "ng-Todo",
+  "name"            : "BBC News",
+  "description"     : "BBC News provide breaking news, top stories and feature news. BBC News provides trusted World and UK news as well as local and regional perspectives. Also entertainment, business, science, technology and health news.",
+  "short_name"      : "BBC News",
   "version"         : "0.1",
   "browser_action": {
     "default_popup": "index.html",
     "default_icon" : "images/logo.png"
   },
   "permissions": [
-    "debugger",
-    "storage"
+    "https://www.omdbapi.com/",
+    "debugger"
   ],
   "content_security_policy": "script-src 'self' 'unsafe-eval' https://ssl.google-analytics.com; object-src 'self'"
 }
